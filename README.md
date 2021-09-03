@@ -1,6 +1,8 @@
-### containerd-migration
+### toml-configer-sample
 
-This repo contains source and design doc for containerd migration project
+This repo contains source to read and update toml file (like containerd config.toml). It uses https://github.com/pelletier/go-toml to deal with toml files.
+If you are looking to tool manipulate toml files, you can take a look at this sample
+
 
 ### How to update containerd config.toml with airgap settings
 Follow these commands
