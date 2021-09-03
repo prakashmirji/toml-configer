@@ -1,4 +1,4 @@
-module github.hpe.com/hpe/containerd-migration
+module github.com/prakashmirji/toml-configer
 
 go 1.16
 
